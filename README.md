@@ -26,10 +26,6 @@ I highly recommend using GitHub pages **[FREE]**.
 The main branch is built using Jekyll on each commit and automatically deployed by GitHub and displayed at the [DEMO LINK](https://ghostinthewires.github.io/Engineering-Handbook/) (You can also CNAME this to your own domain, like we do at [here](https://engineering.firstport.co.uk/)
 ## Build & run locally 🔧
 
-Assuming you are on Windows, first install [Ruby+Devkit 2.7.X (x64)](https://rubyinstaller.org/downloads/)
-
-Currently GitHub Pages does not support Ruby 3.X.X so we do not recommend using this locally. (However, if you did, you would also need to run "bundle add webrick" as per [issue](https://github.com/github/pages-gem/issues/752))
-
 ```powershell
 # Clone this repository
 git clone https://github.com/ghostinthewires/Engineering-Handbook.git
