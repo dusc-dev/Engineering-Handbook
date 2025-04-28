@@ -53,6 +53,7 @@
 
 # Developer
 
+- [ ] iTerm https://iterm2.com/
 - [ ] Install
     `xcode-select --install`
 - [ ] [Install Homebrew](https://brew.sh/)
