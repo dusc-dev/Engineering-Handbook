@@ -1,11 +1,14 @@
 # Welcome to DUSC
 
-- [ ] Gmail
-- [ ] Slack DUSC
-    Add as Member
-- [ ] Slack Clients
-	Add as External
-- [ ] Everhour
+- [x] Gmail
+- [x] Slack DUSC
+  - Add as Member
+- [x] Slack Clients
+  - Add as External
+- [ ] Firefox
+  - Multi Container
+  - Everhour Firefox
+- [x] Everhour
     Add as Member
     Explaining Billing Practices
         - Add existing time
@@ -16,7 +19,7 @@
             - Does not include, chores/lunch/etc
             - Prefer to use timer rather than backfill
         - Stop the timer
-- [ ] Xero
+- [x] Xero
     Use Personal email
     Invite to Xero Me
     Home Address
@@ -31,11 +34,14 @@
     Leave Items
         Annual Leave FTE x 20 x 7
         Personal/Carer Leave FTE x 10 x 7
+- [ ] Hourly Rate
 - [ ] Github
     Invite to DUSC Team
     Invite to Client Teams
     [User add @dusc.dev email to profile](https://github.com/settings/emails)
     [Route Client to dusc.dev](https://github.com/settings/notifications/custom_routing)
+- [ ] Zenhub
+- [ ] Basecamp
 - [ ] Password Manager
     Invite to Client Teams
     Add to Engineering Vault
@@ -48,8 +54,6 @@
 - [ ] Orbstack
     Add additional license
     Add to DUSC Team
-- [ ] Airfocus
-    Client must invite
 
 # Developer
 
